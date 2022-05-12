@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&display=swap');
+
+$text-blue: #173e62;
+$text-orange: #bda588;
+
+.text-blue{
+    color: $text-blue;
+}
+.text-orange{
+    color: $text-orange;
+}
+
+.font-200{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-weight: 200;
+}
+.font-400{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 400;
+}
+.font-700{
+    font-family: 'DM Serif Display', serif;
+    font-weight: 700;
+}
